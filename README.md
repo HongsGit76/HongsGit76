@@ -2,9 +2,7 @@
 
 
 
-<center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongsGit76&show_icons=true&theme=radical)
-</center>
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongsGit76&show_icons=true&theme=radical)</center>
 
 <!--
 **HongsGit76/HongsGit76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
