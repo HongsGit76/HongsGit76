@@ -9,7 +9,7 @@
 
 ## Git Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongsGit76&show_icons=true&theme=radical)
+![Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongsGit76&show_icons=true&theme=radical)
 
 
 <!--
