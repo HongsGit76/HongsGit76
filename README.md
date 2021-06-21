@@ -7,6 +7,7 @@
 
 ![Python](http://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Pytorch](http://img.shields.io/badge/Pytorch-339933?style=flat-square&logo=Pytorch&logoColor=white)
 
 ## Git Stats
 
