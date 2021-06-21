@@ -5,14 +5,27 @@ I Love CODE!!
 [![Gmail](http://img.shields.io/badge/-sdat789@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=sdat789@naver.com)](https://github.com/HongsGit76)
 [![Github](http://img.shields.io/badge/-Hongs%20GIt-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/HongsGit76)
 
+
+
+
+
 ## Programming Languages I LOVE🌱
 
 ![Python](http://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+
+
+
+
 ## Technologies I LOVE🌱
 
 * Deep Learning
+* Backend Web Development
+* Computer System
+
+
+
 
 ## Git Stats
 
