@@ -9,10 +9,15 @@ I Love CODE!!
 
 
 
-## Programming Languages I LOVE🌱
+## Programming Languages, Frameworks&Libraries I LOVE🌱
 
 ![Python](http://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![PyTorch](http://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![DJango](http://img.shields.io/badge/django-%23092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](http://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)
+...
+
 
 
 
