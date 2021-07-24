@@ -8,7 +8,7 @@ I Love CODE!!
 
 
 
-
+<!-- 
 ## Programming Languages, Frameworks&Libraries I LOVE🌱
 
 ![Python](http://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -18,7 +18,7 @@ I Love CODE!!
 ![Spring](http://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)
 ...
 
-
+-->
 
 
 
@@ -31,11 +31,12 @@ I Love CODE!!
 
 
 
-
+<!--
 ## Git Stats
 
 ![Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongsGit76&show_icons=true&theme=radical)
 
+-->
 
 <!--
 **HongsGit76/HongsGit76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
