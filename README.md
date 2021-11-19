@@ -27,7 +27,7 @@ I Love CODE!!
 
 * Deep Learning
 * Backend Web Development
-* Computer System
+* Deep Learning System
 
 
 
