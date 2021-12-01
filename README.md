@@ -1,6 +1,6 @@
 # KIM TAEHONG👋
 
-**<<==== [my adorable puppy](https://www.youtube.com/channel/UC258H3_Ohj1NDTXhnmZhjYA)** 😍 NAME: 김 별, BIRTH: 19.01.19 
+**<<==== [MY ADORABLE 🐶](https://www.youtube.com/channel/UC258H3_Ohj1NDTXhnmZhjYA)** 😍 NAME: 김 별, BIRTH: 19.01.19 
 
 ## I Love CODE!!😊😊
 
