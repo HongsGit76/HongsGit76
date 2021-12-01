@@ -1,6 +1,6 @@
 # KIM TAEHONG👋
 
-<<---- NAME: 김 별, BIRTH: 19.01.19
+**<<---- my adorable puppy**😍 NAME: 김 별, BIRTH: 19.01.19 
 
 ## I Love CODE!!😊😊
 
