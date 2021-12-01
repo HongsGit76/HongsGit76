@@ -1,6 +1,8 @@
 # KIM TAEHONG👋
 
-I Love CODE!!
+<<---- NAME: 김 별, BIRTH: 19.01.19
+
+## I Love CODE!!😊😊
 
 [![Gmail](http://img.shields.io/badge/-sdat789@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=sdat789@naver.com)](https://github.com/HongsGit76)
 [![Github](http://img.shields.io/badge/-Hongs%20GIt-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/HongsGit76)
